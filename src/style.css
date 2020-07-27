@@ -1,0 +1,48 @@
+* {
+    list-style-type: none;
+}
+
+button {
+    width: 70px;
+    height: 30px;
+    text-transform: uppercase;
+    color: #ffffff;
+    border: none;
+    outline: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.get {
+    background-color: #63a8e2;
+}
+
+.get:hover {
+    background-color: #82b9e7;
+}
+
+.post {
+    background-color: #6cbd7d;
+}
+
+.post:hover {
+    background-color: #89ca97;
+}
+
+.put {
+    background-color: #22bac4;
+}
+
+.put:hover {
+    background-color: #4ec7cf;
+}
+
+.delete {
+    background-color: #d26460;
+}
+
+.delete:hover {
+    background-color: #db837f;
+}
